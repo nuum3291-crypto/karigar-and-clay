@@ -1,0 +1,6 @@
+{
+  "name": "Karigar & Clay - Artisan Crafts Marketplace",
+  "description": "Discover authentic handmade treasures, connect with independent local artisans, and shop sustainable handcrafted jewelry, pottery, textiles, and woodwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
